@@ -6,3 +6,4 @@ we are learning devops
 We are in branch br2
 we are in branch master
 Conflict or not
+we are learning git
