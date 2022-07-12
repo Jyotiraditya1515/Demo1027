@@ -2,3 +2,4 @@ Today is Tuesday
 Month of July
 Year is 2022
 Here we go
+we are learning devops
